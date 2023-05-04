@@ -12,6 +12,6 @@
     </appender>
 
     <logger name="jsonLogger" level="TRACE">
-    <appender-ref ref="json" />
+        <appender-ref ref="json" />
     </logger>
 </configuration>
