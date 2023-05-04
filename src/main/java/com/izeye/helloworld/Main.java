@@ -13,6 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Logger logger = LoggerFactory.getLogger("jsonLogger");
         logger.debug("Hello,\nworld!");
+        logger.debug("Hello,\nworld!");
     }
 
 }
